@@ -1,7 +1,7 @@
 import React from "react";
 import { View, Text } from "react-native";
 import Hello from "./component/Hello";
-// import { Colors } from "react-native/Libraries/NewAppScreen";
+//import { Colors } from "react-native/Libraries/NewAppScreen";
 
 export default function App() {
   return (
