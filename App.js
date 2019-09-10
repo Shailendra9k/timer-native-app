@@ -13,7 +13,7 @@ export default function App() {
         backgroundColor: "#0984e3"
       }}
     >
-      <Hello text="Time is " />
+      <Hello text="Time is: " />
     </View>
   );
 }
